@@ -1,5 +1,6 @@
 <template>
-  <div>
+ 		<div id="app">
+			<div class="container container22243">
   <Nav />
   
 
@@ -12,6 +13,7 @@
 
 
 <Tabbar />
+  </div>
   </div>
 </template>
 
